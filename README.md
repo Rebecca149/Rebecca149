@@ -21,6 +21,8 @@ I use these tools...<br/><br/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
 
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Rebecca149&theme=dracula'/>
+
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
