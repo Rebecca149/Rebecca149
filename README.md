@@ -2,7 +2,7 @@
 
 I'm a full stack software developer in training 
 
-- 🌱 I’m only 10 weeks into my coding journey but I'm so proud of what I've learnt and achieved in this time!
+- 🌱 I’m only 3 months into my coding journey but I'm so proud of what I've learnt and achieved in this time!
 - :mortar_board: I'm a recent physics graduate
 - 🌍 I want to have a long lasting, positive impact on the world!
 - :rocket: I'm currently learning with the School of Code
