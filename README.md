@@ -1,6 +1,6 @@
-### Hi, I'm Rebecca 🦔
+### I'm Rebecca 🦔
 
-I'm a full stack software developer in training 
+A full stack software developer in training 
 
 - 🌱 I’m only 3 months into my coding journey but I'm so proud of what I've learnt and achieved in this time!
 - :mortar_board: I'm a recent physics graduate
